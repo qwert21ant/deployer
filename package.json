@@ -2,7 +2,7 @@
   "name": "deployer",
   "version": "1.0.0",
   "bin": {
-    "deployer": "./dist/index"
+    "deployer": "./dist/index.js"
   },
   "main": "dist/index",
   "types": "dist/index",
